@@ -4,6 +4,7 @@ mod day3;
 mod day4;
 mod day5;
 mod day6;
+mod day7;
 
 fn main() {
     day1::task_1();
@@ -23,4 +24,7 @@ fn main() {
 
     day6::task1();
     day6::task2();
+    
+    day7::task1();
+    day7::task2();
 }
