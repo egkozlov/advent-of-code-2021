@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 array2d = "0.2.1"
+streaming-stats = "0.1.28"
